@@ -1,3 +1,3 @@
 # datasciencecoursera
 Data Science Coursera
-First repo for the Data SCience course
+Repo for the Data Scientist's Toolbox course by Johns Hopkings University.
